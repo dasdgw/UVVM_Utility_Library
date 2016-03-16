@@ -1,4 +1,5 @@
 This project uses the following versions:
-  uvvm_util, version v1.1.2
+  uvvm_util, version v1.2.0
+  uvvm_osvvm, version v1.0.0
   bitvis_irqc, version v0.2.3
   bitvis_vip_sbi, version v1.0.1
